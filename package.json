@@ -1,0 +1,27 @@
+{
+  "name": "miniproj2",
+  "version": "1.0.0",
+  "description": "➔ Agora que já usamos algumas rotas com o Node/Express que tal pensar em\r outra ferramenta de apoio para o dia a dia do Dev?",
+  "main": "sprint2.js",
+  "scripts": {
+    "dev": "nodemon ./src/sprint2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liliana1609/MiniProj2-Mod4.git"
+  },
+  "author": "Liliana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liliana1609/MiniProj2-Mod4/issues"
+  },
+  "homepage": "https://github.com/Liliana1609/MiniProj2-Mod4#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^18.5.0",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {}
+}
